@@ -1,0 +1,51 @@
+* commit dfc117cc87805616ef6912d9ee914e79abfe028a (HEAD -> master, pacolealfernandez/master)
+| Author: Paco <pacolealfernandez@gmail.com>
+| Date:   Thu Apr 22 09:00:42 2021 +0200
+| 
+|     comida v3
+| 
+* commit ad30762876607c2e98585167d7d3d7fed9c5edb8
+| Author: Paco <pacolealfernandez@gmail.com>
+| Date:   Thu Apr 22 08:59:49 2021 +0200
+| 
+|     Lista socios v3
+| 
+* commit 342d465eef49b835c2f51f88e6074687a377411e (cocina_caseta)
+| Author: Paco <pacolealfernandez@gmail.com>
+| Date:   Thu Apr 22 08:42:20 2021 +0200
+| 
+|     comida v2
+| 
+* commit 8a829c37f5b4e4503072cf6f6b9dcb533c046002
+| Author: Paco <pacolealfernandez@gmail.com>
+| Date:   Thu Apr 22 08:41:09 2021 +0200
+| 
+|     comida v1
+| 
+* commit eee43b7ec11e1bc005a9d6da1667265f678688b6
+| Author: Paco <pacolealfernandez@gmail.com>
+| Date:   Thu Apr 22 08:38:04 2021 +0200
+| 
+|     precios v1
+| 
+* commit caf1c8bab9958558d8f4e62f150cc679534cd743
+| Author: Paco <pacolealfernandez@gmail.com>
+| Date:   Thu Apr 22 08:36:14 2021 +0200
+| 
+|     Lista socios v2
+| 
+* commit 0d66350dd17429314495803b4347dc0cd1674305
+  Author: Paco <pacolealfernandez@gmail.com>
+  Date:   Thu Apr 22 08:33:53 2021 +0200
+  
+      Lista socios v1
+dfc117c HEAD@{0}: commit: comida v3
+ad30762 HEAD@{1}: commit: Lista socios v3
+342d465 HEAD@{2}: merge cocina_caseta: Fast-forward
+eee43b7 HEAD@{3}: checkout: moving from cocina_caseta to master
+342d465 HEAD@{4}: commit: comida v2
+8a829c3 HEAD@{5}: commit: comida v1
+eee43b7 HEAD@{6}: checkout: moving from master to cocina_caseta
+eee43b7 HEAD@{7}: commit: precios v1
+caf1c8b HEAD@{8}: commit: Lista socios v2
+0d66350 HEAD@{9}: commit (initial): Lista socios v1
